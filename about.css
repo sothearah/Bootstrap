@@ -1,0 +1,29 @@
+*{
+    font-family: "Fira Sans", serif;
+    width: 100%;
+}
+.intro{
+    font: bold;
+    font-size: 25px;
+}
+.main{
+    font-size: 40px;
+}
+/* body */
+.first{
+    padding: 20px;
+    border: 1px solid rgb(225, 224, 224);
+}
+.second{
+    padding: 20px;
+    border: 1px solid rgb(225, 224, 224);
+}
+.third{
+    padding: 20px;
+    border: rgb(225, 224, 224);
+}
+header {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+  }

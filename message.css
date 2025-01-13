@@ -1,0 +1,14 @@
+*{
+    font-family: "Fira Sans", serif;
+    width: 100%;
+}
+.intro{
+    font-size: 40px;
+    margin-top: 20px;
+    text-align: center;
+}
+header {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+  }
