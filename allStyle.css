@@ -1,0 +1,87 @@
+*{
+    font-family: "Fira Sans", serif;
+    width: 100%;
+    
+}
+img{
+    border-radius: 5px;
+}
+
+header {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+  }
+
+/* 1st section */
+.p1-a-section{
+    /* background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjiSfKN3pOFDRs2onefT3Uuv1FMISDiMsEaQ&s); */
+    padding: 20px;
+    height: 40vh;
+}
+.welcome{
+    font-size: 40px;
+    text-align: center;
+}
+/* .intro{
+    text-align: center;
+} */
+/* main */
+.p3{
+    padding: 20px;
+}
+  
+
+/* about section */
+.intro-about{
+    text-align: center;
+    margin: 50px 0 20px 0;
+}
+.first{
+    padding: 20px;
+    border: 1px solid rgb(225, 224, 224);
+}
+.second{
+    padding: 20px;
+    border: 1px solid rgb(225, 224, 224);
+}
+.third{
+    padding: 20px;
+    border: rgb(225, 224, 224);
+}
+header {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+  }
+
+/* contact */
+.intro-contact{
+    text-align: center;
+    margin: 40px 0 50px 0;
+}
+.contact-send{
+    border-radius: 5px;
+    width: 100px;
+    padding: 15px;
+}
+header {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+/* message */
+
+.intro{
+    font: bold;
+    font-size: 18px;
+    margin-top: 20px;
+    text-align: center;
+}
+header {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+  }
+
